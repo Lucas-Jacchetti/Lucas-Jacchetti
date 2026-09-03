@@ -1,5 +1,5 @@
 <img
-  src="https://terminal-identity-opal.vercel.app/api?name=Lucas+Jacchetti&username=Lucas-Jacchetti&role=Software+Engineering+Student&tagline=Building+modern+web+applications+and+backend+systems.&bio=Software+Engineering+student+passionate+about+full-stack+development%2C+clean+architecture%2C+and+modern+technologies.&theme=obsidian%2Fvelvet&avatar=LJ&pattern=pulse&width=980&height=auto&motion=boot&showContribs=off&showLangs=on&hideCommand=true"
+  src="https://terminal-identity-opal.vercel.app/api?name=Lucas+Jacchetti&username=Lucas-Jacchetti&role=software+engineer&tagline=Building+full-stack+applications+with+clean+architecture+and+modern+technologies.&status=always+learning%2C+always+building&command=npx+terminal-identity&theme=obsidian%2Fvelvet&avatar=LJ&pattern=pulse&width=980&height=auto&showLangs=on&showContribs=on&motion=boot&contribTheme=firefly&hideCommand=true"
   width="100%"
   alt="Lucas Jacchetti terminal identity card"
 />
