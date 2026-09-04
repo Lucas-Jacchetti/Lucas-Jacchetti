@@ -1,1 +1,1 @@
-<img src="assets/lucas-jacchetti-custom-card.svg" width="200" alt="Texto Alternativo" />
+<img src="assets/lucas-jacchetti-custom-card.svg" width="full" alt="Texto Alternativo" />
